@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/Naver Cloud Platform-53A318?style=flat-square&logo=cloudways&logoColor=white"/></span>
+<br>
 <span><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></span>
 <br><br>
 <img width="444" alt="캡처" src="https://user-images.githubusercontent.com/63899204/148312000-9040bccf-d7ba-4ba7-81b8-3efe053f7de2.PNG">
   
