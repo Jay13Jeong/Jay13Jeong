@@ -1,4 +1,4 @@
-### Hi there 👋
+### MINISHELL! 👋
 
 <!--
 **Jay13Jeong/Jay13Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="351" alt="캡처3" src="https://user-images.githubusercontent.com/63899204/148311983-2d7503de-40e4-4939-a2a8-ef55ae7e5150.PNG">
+<img width="355" alt="캡처2" src="https://user-images.githubusercontent.com/63899204/148311992-06ec519f-af26-4f39-af2e-c99dbf285264.PNG">
+<img width="444" alt="캡처" src="https://user-images.githubusercontent.com/63899204/148312000-9040bccf-d7ba-4ba7-81b8-3efe053f7de2.PNG">
