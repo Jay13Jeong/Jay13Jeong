@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/jjeong@student.42seoul.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><br>
-👋 Hi there! I'm currently learning programming from 42seoul!🚀<br>
+👋 Hi there! I'm currently learning software engineering from 42seoul!🚀<br>
 <h3>💪 Skills<h3>
 <img src="https://img.shields.io/badge/Python-02569B?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-40AEF0?style=flat-square&logo=C&logoColor=white"/>
