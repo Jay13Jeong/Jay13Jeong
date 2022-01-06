@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=tomcat&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/Naver Cloud Platform-53A318?style=flat-square&logo=cloudways&logoColor=white"/></span>
 <br><br>
 <img width="444" alt="캡처" src="https://user-images.githubusercontent.com/63899204/148312000-9040bccf-d7ba-4ba7-81b8-3efe053f7de2.PNG">
