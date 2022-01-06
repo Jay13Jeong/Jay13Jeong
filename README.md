@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></span>
+  <span><img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/></span>
 <br><br>
 <img width="444" alt="캡처" src="https://user-images.githubusercontent.com/63899204/148312000-9040bccf-d7ba-4ba7-81b8-3efe053f7de2.PNG">
 <img width="444" height="auto" alt="스크린샷 2022-01-06 오전 11 14 24" src="https://user-images.githubusercontent.com/63899204/148317301-72557079-b1f1-4d42-9b1c-40ed18f29c29.png">
