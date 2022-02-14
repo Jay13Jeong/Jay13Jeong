@@ -34,7 +34,8 @@ Here are some ideas to get you started:
   <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></span>
   <span><img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/></span>
 <br><br>
-<img width="423" alt="스크린샷 2022-02-13 오후 4 42 30" src="https://user-images.githubusercontent.com/63899204/153804163-0684b4a4-99c8-44f1-aee8-06670601ff39.png">
+<img width="444" height="auto" alt="스크린샷 2022-02-13 오후 4 42 30" src="https://user-images.githubusercontent.com/63899204/153804163-0684b4a4-99c8-44f1-aee8-06670601ff39.png">
+<img width="444" height="auto" alt="스크린샷 2022-02-11 오후 3 20 12" src="https://user-images.githubusercontent.com/63899204/153804316-34751d95-ec13-439b-b3a8-3b048a86c6ea.png">
 <img width="444" height="auto" alt="스크린샷 2022-01-06 오전 11 14 24" src="https://user-images.githubusercontent.com/63899204/148317301-72557079-b1f1-4d42-9b1c-40ed18f29c29.png">
 
   
