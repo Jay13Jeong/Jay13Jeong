@@ -33,6 +33,8 @@ Here are some ideas to get you started:
   <span><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></span>
   <span><img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/></span>
+<h3>🤔 Blog</h3>
+  https://velog.io/@jay13jeong/%EC%B2%A0%ED%95%99%EC%9E%90-thread-process
 <br><br>
 <img width="444" height="auto" alt="스크린샷 2022-02-13 오후 4 42 30" src="https://user-images.githubusercontent.com/63899204/153804163-0684b4a4-99c8-44f1-aee8-06670601ff39.png">
 <img width="444" height="auto" alt="스크린샷 2022-02-11 오후 3 20 12" src="https://user-images.githubusercontent.com/63899204/153804316-34751d95-ec13-439b-b3a8-3b048a86c6ea.png">
