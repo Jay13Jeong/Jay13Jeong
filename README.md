@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <h3>💪 Skills<h3>
 <img src="https://img.shields.io/badge/Python-02569B?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-40AEF0?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-1050B0?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <h3>🔭 Tools</h3>
