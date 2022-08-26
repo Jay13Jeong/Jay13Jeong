@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/jjeong@student.42seoul.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><br>
-👋 Hi there! I'm currently learning software engineering from 42seoul!🚀<br>
+👋 Hi there! I'm currently learning software engineering🚀<br>
+
+<!--
 <h3>💪 Skills<h3>
 <img src="https://img.shields.io/badge/Python-02569B?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-40AEF0?style=flat-square&logo=C&logoColor=white"/>
@@ -34,7 +36,9 @@ Here are some ideas to get you started:
   <span><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></span>
   <span><img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/></span>
-<h3>🤔 Blog</h3>
+ -->
+  
+<h3>🤔 Blog (korean)</h3>
   <b>https://velog.io/@jay13jeong/%EC%B2%A0%ED%95%99%EC%9E%90-thread-process</b>
 
 
