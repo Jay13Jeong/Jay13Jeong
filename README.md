@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  -->
   
 <h3>🤔 Blog (korean)</h3>
-  <b>https://velog.io/@jay13jeong/%EC%B2%A0%ED%95%99%EC%9E%90-thread-process</b>
+  <b>https://velog.io/@jay13jeong</b>
 
 
   
