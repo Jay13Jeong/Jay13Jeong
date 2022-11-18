@@ -43,7 +43,4 @@ Here are some ideas to get you started:
 
 <hr>
 
-<!--
-![ramen_gif2](https://user-images.githubusercontent.com/63899204/202635439-24294f8a-8f83-403b-a54d-0ad903ae90e1.gif) -->
-
 ![ramen_gif3](https://user-images.githubusercontent.com/63899204/202638088-b12c207b-b7a6-4292-aeee-af5ea37da2a7.gif)
