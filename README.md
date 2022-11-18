@@ -41,5 +41,9 @@ Here are some ideas to get you started:
 <h3>🤔 Blog (korean)</h3>
   <b>https://velog.io/@jay13jeong</b>
 
+<hr>
+
+![ramen_gif2](https://user-images.githubusercontent.com/63899204/202635439-24294f8a-8f83-403b-a54d-0ad903ae90e1.gif)
+
 
   
