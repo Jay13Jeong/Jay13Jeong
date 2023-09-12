@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/jjeong@student.42seoul.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><br>
-👋 Hi there! I'm currently learning software engineering🚀<br>
+👋 Hi there! I'm a backend developer🚀<br>
 
 <!--
 <h3>💪 Skills<h3>
